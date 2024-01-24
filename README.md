@@ -120,9 +120,9 @@ delay(1000);
 }
 
 2. Se agregan las siguientes librerias para el correcto funcionamiendto del software:
-3. ![]()
+ ![](https://github.com/nijs17/P5_dht11_ultrasonico_lcd/blob/main/q1.png)
 
-4. Hacer las conexiones de la tarjeta con los demas elementos, anteriormente mensionados, como se muestra en la siguente imagen.
+3. Hacer las conexiones de la tarjeta con los demas elementos, anteriormente mensionados, como se muestra en la siguente imagen. ![]()
 
 ![]()
 
