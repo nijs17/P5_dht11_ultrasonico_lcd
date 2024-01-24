@@ -137,4 +137,4 @@ delay(1000);
     
 ## RESUSLTADOS
 Cuando haya funcionado, verás los valores  se mostraran dentro de display como se muestra en la sigiente imagen.
-![]()
+![](https://github.com/nijs17/P5_dht11_ultrasonico_lcd/blob/main/q3.png)
